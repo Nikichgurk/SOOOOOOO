@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+  font-family:Lobster ;
+}
+h1{
+  text-align: center;
+  
+}
+body {
+  background-image: url(https://pm1.narvii.com/7674/34a9f49fd2d6a9e4d53a16d8d9359d9d7fa7fe6ar1-1432-893v2_hq.jpg);
+}
